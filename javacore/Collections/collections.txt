@@ -1,1 +1,1 @@
-JAva map is the equivalent to python dictionaries.
+Java map is the equivalent to python dictionaries.
