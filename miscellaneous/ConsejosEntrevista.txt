@@ -1,10 +1,10 @@
 5 de cada uno:
 
-+Conocimiento
-+valores
-+Experiencia
-+Habilidades
-+Actitud
+-Conocimiento
+-valores
+-Experiencia
+-Habilidades
+-Actitud
 
 
 Orden del curriculum = Orden de las preguntas
