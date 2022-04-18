@@ -23,9 +23,7 @@ Debilidades = aspectos a mejora y mejorando.
 ¿Qué es lo peor que podemos esperar de tí? Realmente nada.
 ¿Por qué no debemos contratarte? Si hay alguien mejor.
 
-<<<<<<< HEAD
 Buscar reclutadores por linkedin y enviar curriculum.
-=======
 Hobbies - Relacionados al trabajo/aburridos.
 
->>>>>>> d7c73afefb0ffbaf29efb835692d75285c25a048
+Ir a foros y conferencias.
