@@ -1,0 +1,1 @@
+En realidad este debería ser solo un archivo de prueba, no uno de notas de java core.
