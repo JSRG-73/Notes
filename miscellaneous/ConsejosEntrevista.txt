@@ -27,3 +27,5 @@ Buscar reclutadores por linkedin y enviar curriculum.
 Hobbies - Relacionados al trabajo/aburridos.
 
 Ir a foros y conferencias.
+
+Tener una cuenta de github activa.
